@@ -9,7 +9,7 @@ https://github.com/Alexandros-A-P/Commodity-Suite-in-Python/blob/main/PART1_gett
 
 The next step is to calculate log returns from Closing prices which is a useful step towards transforming financial data followed by ADF (Stationarity) testing to assess the eligability of log return data as an approriate metric. Finally, some distributive properties can be explored before moving on to the next step, which is assessing VaR using historic and paramteric methods.
 
-https://nbviewer.org/github/Alexandros-A-P/Commodity-Suite-in-Python/blob/main/Log_returns.ipynb
+https://github.com/Alexandros-A-P/Commodity-Suite-in-Python/blob/main/PART2_Log_returns.ipynb
 
 Forecasting with ARIMA may also be carried-out although ADF tests must be done first to ensure stationarity. Then Volatility can be assessed by using the ARCH and GARCH 
 family of models to investigate volatility clustering and asymmetry. 
