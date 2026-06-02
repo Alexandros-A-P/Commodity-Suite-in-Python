@@ -7,7 +7,7 @@ If not viewable in github the link can be accesses here:
 
 https://github.com/Alexandros-A-P/Commodity-Suite-in-Python/blob/main/PART1_getting_data_Closing.ipynb
 
-'PART2_Log_returns.ipynb' is the next step is to calculate log returns from Closing prices which is a useful step towards transforming financial data followed by ADF (Stationarity) testing to assess the eligability of log return data as an approriate metric. Finally, some distributive properties can be explored before moving on to the next step, which is assessing VaR using historic and paramteric methods.
+'PART2_Log_returns.ipynb' is the next step is to calculate log returns from Closing prices which is a useful step towards transforming financial data followed by ADF (Stationarity) testing to assess the eligability of log return data as an approriate metric. Finally, some distributive properties can be explored before moving on to the next step, which is assessing volatility using the ARCH/GARCH family of models.
 
 https://github.com/Alexandros-A-P/Commodity-Suite-in-Python/blob/main/PART2_Log_returns.ipynb
 
