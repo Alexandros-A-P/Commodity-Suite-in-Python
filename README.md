@@ -1,10 +1,11 @@
 # Commodity-Suite-in-Python
 A Repository with four different Jupyter lab files. Ranging from data scraping via yfinance to analysing time series and assessing rolling correlations.
 
-'getting_Cl' shows the reader how to scrape Commodity data (Closing prices) into Python and immediately save as CSV. 
+'PART1_getting_data_Closing' shows the reader how to scrape Commodity data (Closing prices) into Python and immediately save as CSV. This is the foundational step of the entire suite, as such, this should be read first.
+
 If not viewable in github the link can be accesses here: 
 
-https://nbviewer.org/github/Alexandros-A-P/Commodity-Suite-in-Python/blob/main/getting_Cl.ipynb
+https://github.com/Alexandros-A-P/Commodity-Suite-in-Python/blob/main/PART1_getting_data_Closing.ipynb
 
 The next step is to calculate log returns from Closing prices which is a useful step towards transforming financial data followed by ADF (Stationarity) testing to assess the eligability of log return data as an approriate metric. Finally, some distributive properties can be explored before moving on to the next step, which is assessing VaR using historic and paramteric methods.
 
