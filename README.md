@@ -1,5 +1,5 @@
 # Commodity-Suite-in-Python
-A Repository with four different Jupyter lab files. Ranging from data scraping via yfinance to analysing time series and assessing rolling correlations.
+A Repository with four different Jupyter lab files (2/4 currently complete). Ranging from data scraping via yfinance to analysing time series and assessing rolling correlations.
 
 'PART1_getting_data_Closing' shows the reader how to scrape Commodity data (Closing prices) into Python and immediately save as CSV. This is the foundational step of the entire suite, as such, this should be read first.
 
